@@ -1,0 +1,7 @@
+﻿@typeparam TItem
+@inherits Select2Base<TItem>
+
+<div class="@(string.Join(" ", CssClasses)) @FieldClass">
+    <select id="@Id" disabled="@IsDisabled">        
+    </select>
+</div>

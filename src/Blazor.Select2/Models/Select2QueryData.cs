@@ -1,4 +1,4 @@
-﻿namespace NEvaldas.Blazor.Select2.Models
+﻿namespace Select2.Models
 {
     public class Select2QueryData
     {
